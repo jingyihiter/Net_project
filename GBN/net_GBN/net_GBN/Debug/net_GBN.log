@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\coding\netcoding\net_gbn\net_gbn\源.cpp(224): warning C4309: “=”: 截断常量值
+  net_GBN.vcxproj -> D:\coding\netcoding\net_GBN\Debug\net_GBN.exe
+  net_GBN.vcxproj -> D:\coding\netcoding\net_GBN\Debug\net_GBN.pdb (Partial PDB)

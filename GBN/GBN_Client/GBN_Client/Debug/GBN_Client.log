@@ -1,0 +1,10 @@
+﻿  源.cpp
+d:\coding\netcoding\gbn_client\gbn_client\源.cpp(86): warning C4305: “初始化”: 从“double”到“float”截断
+d:\coding\netcoding\gbn_client\gbn_client\源.cpp(87): warning C4305: “初始化”: 从“double”到“float”截断
+d:\coding\netcoding\gbn_client\gbn_client\源.cpp(141): warning C4309: “=”: 截断常量值
+d:\coding\netcoding\gbn_client\gbn_client\源.cpp(166): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+d:\coding\netcoding\gbn_client\gbn_client\源.cpp(175): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+d:\coding\netcoding\gbn_client\gbn_client\源.cpp(71): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 参见“inet_addr”的声明
+  GBN_Client.vcxproj -> D:\coding\netcoding\GBN_Client\Debug\GBN_Client.exe
+  GBN_Client.vcxproj -> D:\coding\netcoding\GBN_Client\Debug\GBN_Client.pdb (Partial PDB)

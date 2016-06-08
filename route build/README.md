@@ -11,4 +11,4 @@
 的访问服务支持；通过端口映射技术提供对学校 WEB、数据等服务器的
 外部访问支持。校园网出口布置了防火墙和入侵检测系统，同时提供了
 VPN 访问支持。<br>
-![]()
+![](https://github.com/jingyihiter/Net_project/blob/master/route%20build/1.png)

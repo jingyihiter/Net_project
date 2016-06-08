@@ -8,3 +8,6 @@
 <br>
 >[IPv4分组转发实验](https://github.com/jingyihiter/Net_project/tree/master/forward)<br>
 <br>
+[利用wireshark进行协议分析](https://github.com/jingyihiter/Net_project/tree/master/wireshark)<br>
+<br>
+[简单网络组建及配置](https://github.com/jingyihiter/Net_project/tree/master/route%20build)<br>
